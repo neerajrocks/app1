@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="app_name">app1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_second">Second Page</string>
+    <string name="title_activity_splash">Splash</string>
+    <color name="black">#000111</color>
+    <color name="blue">#0000ff</color>
+    <color name="white">#ffffff</color>
+    <color name="LightGreen">#00ff00</color>
+    <color android:layout_width="wrap_content" android:id="@+id/color1" android:layout_height="wrap_content" name="green">#001100</color>
+    <color android:id="@+id/color1" android:layout_height="wrap_content" android:layout_width="wrap_content" name="yellow">#ffff00</color>
+    <string-array name="list">
+        <item>india</item>
+        <item>africa</item>
+        <item>america</item>
+        <item>pakistan</item>
+    </string-array>
+</resources>
